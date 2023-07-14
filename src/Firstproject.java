@@ -10,7 +10,7 @@ public class Firstproject {
         System.out.println("Hai \n Good to have you here \n ");
 
 
-        int myFirstNumber = (20 + 49) + (2 * 10);
+        int myFirstNumber = (20 + 50) + (2 * 20);
 
         int mySecondNumber = 35;
 
